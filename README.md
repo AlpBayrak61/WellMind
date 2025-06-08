@@ -35,10 +35,6 @@ Database:
 - MongoDB
   - Stores user data, mood logs, recommendations, resources
 
-Deployment:
-- Vercel/Netlify (Frontend)
-- Heroku/AWS EC2 (Backend)
-
 Key Points:
 
     Frontend handles user interactions, forms, and displaying mental health resources.
