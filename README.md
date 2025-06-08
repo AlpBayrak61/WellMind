@@ -1,24 +1,6 @@
 # WellMind
 
 WellMind is a mental health assistant web application designed to help users manage their mental well-being by providing personalized health recommendations, mood tracking, and curated resources.
-📚 Table of Contents
-
-    Overview
-
-    Features
-
-    Architecture
-
-    Trade-offs and Design Decisions
-
-    Testing
-
-    Getting Started
-
-    Contributing
-
-    License
-
 Overview
 
 WellMind is a web-based mental health companion built using React.js (frontend) and Node.js/Spring Boot (backend). It offers users a safe space to track their moods, access tailored recommendations, and stay informed with mental health resources.
