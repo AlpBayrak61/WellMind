@@ -129,6 +129,4 @@ Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For larger features, please open an issue first to discuss the approach.
 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Let me know if you'd like to customize any part of this README (like expanding the architecture section, adding more detail about specific components, or refining the trade-offs discussion). If you’d like, I can also help generate diagrams or code snippets! 🚀
